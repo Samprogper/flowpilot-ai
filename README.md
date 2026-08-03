@@ -1,17 +1,23 @@
 # FlowPilot AI
 
-AI workflow for automated multilingual content production.
+> AI-powered multilingual content production pipeline.
 
 ---
 
-## Capabilities
+## Overview
 
+FlowPilot AI automates the production of multilingual content by combining research, script generation, translation, text-to-speech, and video creation into a unified workflow.
+
+---
+
+## Pipeline
+
+- Research
 - Script Generation
-- AI Research
-- Text-to-Speech
-- Video Production
 - Translation
-- Workflow Automation
+- Voice Generation
+- Video Production
+- Publishing
 
 ---
 
@@ -19,7 +25,16 @@ AI workflow for automated multilingual content production.
 
 - n8n
 - Gemini
-- LLMs
+- Large Language Models
+- REST APIs
+
+---
+
+## Public Repository
+
+Documentation only.
+
+Internal workflows and production automation are not publicly available.
 
 ---
 
