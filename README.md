@@ -41,3 +41,11 @@ Internal workflows and production automation are not publicly available.
 ## Status
 
 🚧 Active Development
+
+---
+
+## Repository Scope
+
+This repository contains public documentation only.
+
+Source code, production workflows, prompts, infrastructure, and proprietary implementation details are intentionally excluded.
